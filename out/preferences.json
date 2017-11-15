@@ -1,0 +1,12 @@
+{
+  "auto_input": true,
+  "show_exercise_images": true,
+  "download_exercise_images_over_mobile": false,
+  "rest_timer_sound": true,
+  "mute": false,
+  "fullscreen": false,
+  "pref_keep_screen_on": false,
+  "pref_exercises_list_sort_option": 0,
+  "pref_exercise_statistics_list_sort_option": 3,
+  "analytics": false
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "custom": true,
+    "id": "5b893290-d62f-470d-8143-92173bfd2315",
+    "instructions": "Facing the machine, sit on the seat on the edge and rest your chin on the seat.",
+    "name": "Machine Delt Fly (angled)",
+    "equipment": 4,
+    "mainTargetMuscle": 7,
+    "secondaryTargetMuscles": [
+      2
+    ],
+    "type": 0
+  },
+  {
+    "custom": true,
+    "id": "43e95806-3f69-4ed5-a5e3-7a63036ebe12",
+    "instructions": "",
+    "name": "Machine Delt Fly",
+    "equipment": 4,
+    "mainTargetMuscle": 2,
+    "type": 0
+  }
+]

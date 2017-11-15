@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "parse": "ts-node parse.ts"
+  },
   "devDependencies": {
+    "@types/node": "^8.0.52",
     "ts-node": "^3.3.0",
     "typescript": "^2.6.1"
   }

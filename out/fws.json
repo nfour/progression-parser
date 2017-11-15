@@ -1,0 +1,3447 @@
+[
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "249",
+        "name": "Machine Fly",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510300316620,
+              "duration": 0,
+              "mark": 0,
+              "reps": 20,
+              "weight": 26
+            },
+            {
+              "completedAt": 1510300325114,
+              "duration": 0,
+              "mark": 0,
+              "reps": 13,
+              "weight": 47
+            },
+            {
+              "completedAt": 1510300408597,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 47
+            },
+            {
+              "completedAt": 1510300617411,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 47
+            },
+            {
+              "completedAt": 1510300624898,
+              "duration": 0,
+              "mark": 0,
+              "reps": 3,
+              "weight": 40
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "26 40 40 40",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 4,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 5,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "12",
+        "name": "Smith Machine Bench Press",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510300807162,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 30
+            },
+            {
+              "completedAt": 1510301036573,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 35
+            },
+            {
+              "completedAt": 1510301187324,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 35
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "30 30 30",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 5,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "22",
+        "name": "Dumbbell Fly",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510301618890,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 8
+            },
+            {
+              "completedAt": 1510301622350,
+              "duration": 0,
+              "mark": 0,
+              "reps": 12,
+              "weight": 8
+            },
+            {
+              "completedAt": 1510301848434,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 8
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 2,
+        "mainTargetMuscle": 5,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "16",
+        "name": "Incline Dumbbell Bench Press",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510302080993,
+              "duration": 0,
+              "mark": 0,
+              "reps": 20,
+              "weight": 6
+            },
+            {
+              "completedAt": 1510302246339,
+              "duration": 0,
+              "mark": 0,
+              "reps": 20,
+              "weight": 8
+            },
+            {
+              "completedAt": 1510302381039,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 8
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 2,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      }
+    ],
+    "endTime": 1510303838238,
+    "id": "b859289c-9705-4f71-bfe4-064f058b39d7",
+    "programDayIndex": 3,
+    "programId": "f8d276d2-388b-46b8-97c2-c756c798f82a",
+    "startTime": 1510300311620
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "104",
+        "name": "Chinup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510135265344,
+              "duration": 0,
+              "mark": 0,
+              "reps": 18,
+              "weight": 35
+            },
+            {
+              "completedAt": 1510135330924,
+              "duration": 0,
+              "mark": 0,
+              "reps": 12,
+              "weight": 49
+            },
+            {
+              "completedAt": 1510135493050,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 49
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": true,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            },
+            {
+              "allOut": true,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "117",
+        "name": "Machine Cable Low Row",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510135684183,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 47
+            },
+            {
+              "completedAt": 1510135778673,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 40
+            },
+            {
+              "completedAt": 1510135903694,
+              "duration": 0,
+              "mark": 0,
+              "reps": 9,
+              "weight": 40
+            },
+            {
+              "completedAt": 1510135985892,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 33
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 6,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "276",
+        "name": "Wide-Grip Machine Lat Pulldown",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510136193596,
+              "duration": 0,
+              "mark": 0,
+              "reps": 11,
+              "weight": 33
+            },
+            {
+              "completedAt": 1510136368526,
+              "duration": 0,
+              "mark": 0,
+              "reps": 13,
+              "weight": 37.5
+            },
+            {
+              "completedAt": 1510136486507,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 40
+            },
+            {
+              "completedAt": 1510136594232,
+              "duration": 0,
+              "mark": 0,
+              "reps": 11,
+              "weight": 31
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": true,
+        "id": "43e95806-3f69-4ed5-a5e3-7a63036ebe12",
+        "name": "Machine Delt Fly",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510136785146,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 19
+            },
+            {
+              "completedAt": 1510136921307,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 19
+            },
+            {
+              "completedAt": 1510137124681,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 19
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 12,
+              "minReps": 12
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 12,
+              "minReps": 12
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 12,
+              "minReps": 12
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 2,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "114",
+        "name": "Bent-Over T-Bar Row",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1510137808982,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 20
+            },
+            {
+              "completedAt": 1510137814554,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 20
+            },
+            {
+              "completedAt": 1510137819098,
+              "duration": 0,
+              "mark": 0,
+              "reps": 22,
+              "weight": 20
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            },
+            {
+              "allOut": true,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 10,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      }
+    ],
+    "comment": "Ltyrosine dose, great mood, caffeine, protein shake 4hr",
+    "endTime": 1510137854630,
+    "id": "79fc51ff-1144-4c70-8154-8baa338197aa",
+    "name": "Back",
+    "programDayIndex": 2,
+    "programId": "f8d276d2-388b-46b8-97c2-c756c798f82a",
+    "startTime": 1510135260344
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "94",
+        "name": "Smith Machine Shoulder Press",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509961850830,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 20
+            },
+            {
+              "completedAt": 1509962035522,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 20
+            },
+            {
+              "completedAt": 1509962335638,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 20
+            },
+            {
+              "completedAt": 1509962340002,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 20
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 8,
+              "minReps": 8
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 6,
+              "minReps": 6
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 8,
+              "minReps": 8
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 8,
+              "minReps": 8
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 5,
+        "mainTargetMuscle": 7,
+        "secondaryTargetMuscles": [
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "60",
+        "name": "Dumbbell Side Raise",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509962487497,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 4
+            },
+            {
+              "completedAt": 1509962782390,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 4
+            },
+            {
+              "completedAt": 1509962783754,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 4
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 2,
+        "mainTargetMuscle": 7,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": true,
+        "id": "5b893290-d62f-470d-8143-92173bfd2315",
+        "name": "Machine Delt Fly (angled)",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509963115582,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 26
+            },
+            {
+              "completedAt": 1509963210762,
+              "duration": 0,
+              "mark": 0,
+              "reps": 11,
+              "weight": 26
+            },
+            {
+              "completedAt": 1509963329275,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 33
+            },
+            {
+              "completedAt": 1509963860820,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 26
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 7,
+        "secondaryTargetMuscles": [
+          2
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "264",
+        "name": "Dumbbell Shoulder Press",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509963983444,
+              "duration": 0,
+              "mark": 0,
+              "reps": 14,
+              "weight": 6
+            },
+            {
+              "completedAt": 1509964120302,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 9
+            },
+            {
+              "completedAt": 1509964325654,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 9
+            },
+            {
+              "completedAt": 1509964332561,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 7
+            },
+            {
+              "completedAt": 1509964401499,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 4
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 4,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 2,
+        "mainTargetMuscle": 7,
+        "type": 0
+      }
+    ],
+    "endTime": 1509966206125,
+    "id": "f9d2abfa-4a86-4bd9-9ee0-4e5083a1db3d",
+    "name": "Shoulders",
+    "programDayIndex": 1,
+    "programId": "f8d276d2-388b-46b8-97c2-c756c798f82a",
+    "startTime": 1509961845830
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "170",
+        "name": "Machine Leg Press",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509841940391,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 100
+            },
+            {
+              "completedAt": 1509841954143,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 110
+            },
+            {
+              "completedAt": 1509841959142,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 110
+            },
+            {
+              "completedAt": 1509841972260,
+              "duration": 0,
+              "mark": 0,
+              "reps": 12,
+              "weight": 50
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 6,
+        "secondaryTargetMuscles": [
+          4,
+          1
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "169",
+        "name": "Machine Leg Extension",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509842129788,
+              "duration": 0,
+              "mark": 0,
+              "reps": 16,
+              "weight": 30
+            },
+            {
+              "completedAt": 1509842224685,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 32.5
+            },
+            {
+              "completedAt": 1509842333290,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 35
+            },
+            {
+              "completedAt": 1509842490337,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 35
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 6,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "171",
+        "name": "Machine Leg Curl",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509842746193,
+              "duration": 0,
+              "mark": 0,
+              "reps": 20,
+              "weight": 27.5
+            },
+            {
+              "completedAt": 1509842930261,
+              "duration": 0,
+              "mark": 0,
+              "reps": 20,
+              "weight": 37.5
+            },
+            {
+              "completedAt": 1509843135313,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 37.5
+            },
+            {
+              "completedAt": 1509843230595,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 35
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 3,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 6,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "230",
+        "name": "Machine Calf Raise",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1509843454266,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 25
+            },
+            {
+              "completedAt": 1509843552986,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 30
+            },
+            {
+              "completedAt": 1509843672533,
+              "duration": 0,
+              "mark": 0,
+              "reps": 12,
+              "weight": 20
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": -1,
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 0
+        },
+        "equipment": 4,
+        "mainTargetMuscle": 4,
+        "type": 0
+      }
+    ],
+    "comment": "Had cold shower + 150mg caffeine at 10am",
+    "endTime": 1509843697658,
+    "id": "a82e6a14-3a0a-4825-a307-294912783519",
+    "name": "Legs",
+    "programDayIndex": 0,
+    "programId": "f8d276d2-388b-46b8-97c2-c756c798f82a",
+    "startTime": 1509841935391
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "5",
+        "name": "Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476346906367,
+              "duration": 0,
+              "mark": 0,
+              "reps": 7,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476347697066,
+              "duration": 0,
+              "mark": 0,
+              "reps": 7,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 8
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 12,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "238",
+        "name": "Eccentric Pullup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476347051364,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476347849436,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "217",
+        "name": "Close-Grip Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476347207995,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476348001975,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 90000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 8,
+        "secondaryTargetMuscles": [
+          7
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "237",
+        "name": "Eccentric Chinup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476347620695,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476348193480,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476348271421,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 8,
+              "minReps": 8
+            },
+            {
+              "allOut": true,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "162",
+        "name": "Bodyweight Squat",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476348314693,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476348657761,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "secondaryTargetMuscles": [
+          4,
+          1
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "284",
+        "name": "Bodyweight Lunge",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476348508539,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476348658729,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "type": 0
+      }
+    ],
+    "endTime": 1476348662904,
+    "id": "767271aa-dc6a-4614-b128-86f99848c43a",
+    "name": "Bodyweight, full body",
+    "programDayIndex": 0,
+    "programId": "c7dc5902-4384-4cf5-b322-e8e9163461f5",
+    "startTime": 1476346901367
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "5",
+        "name": "Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476172844504,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476173293683,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 8
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 12,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "238",
+        "name": "Eccentric Pullup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476172939313,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476173305178,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "237",
+        "name": "Eccentric Chinup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476172578974,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476173110987,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476173413653,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 8,
+              "minReps": 8
+            },
+            {
+              "allOut": true,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "217",
+        "name": "Close-Grip Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476172500744,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476173152115,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 90000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 8,
+        "secondaryTargetMuscles": [
+          7
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "202",
+        "name": "Plank",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476173461758,
+              "duration": 30000,
+              "mark": 0,
+              "reps": 0,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476173464067,
+              "duration": 30000,
+              "mark": 0,
+              "reps": 0,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 1,
+        "type": 1
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "162",
+        "name": "Bodyweight Squat",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476171813417,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476172061340,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "secondaryTargetMuscles": [
+          4,
+          1
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "284",
+        "name": "Bodyweight Lunge",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1476171924361,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1476172336497,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "type": 0
+      }
+    ],
+    "endTime": 1476173468270,
+    "id": "b4e203a6-c8e7-480a-b25f-1c3a173d4389",
+    "name": "Bodyweight, full body",
+    "programDayIndex": 0,
+    "programId": "c7dc5902-4384-4cf5-b322-e8e9163461f5",
+    "startTime": 1476171613159
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "5",
+        "name": "Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475979074966,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475980664787,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 8
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 12,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "238",
+        "name": "Eccentric Pullup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475979134493,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475980713216,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "202",
+        "name": "Plank",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475979593663,
+              "duration": 30000,
+              "mark": 0,
+              "reps": 0,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475980164804,
+              "duration": 30000,
+              "mark": 0,
+              "reps": 0,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 1,
+        "type": 1
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "162",
+        "name": "Bodyweight Squat",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475979268223,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475979764273,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "secondaryTargetMuscles": [
+          4,
+          1
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "284",
+        "name": "Bodyweight Lunge",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475979481345,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475979901138,
+              "duration": 0,
+              "mark": 0,
+              "reps": 15,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "237",
+        "name": "Eccentric Chinup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475980219552,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475980798177,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475981205889,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 8,
+              "minReps": 8
+            },
+            {
+              "allOut": true,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "217",
+        "name": "Close-Grip Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475980319799,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475980956929,
+              "duration": 0,
+              "mark": 0,
+              "reps": 6,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 90000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 8,
+        "secondaryTargetMuscles": [
+          7
+        ],
+        "type": 0
+      }
+    ],
+    "endTime": 1475981218560,
+    "id": "b60aa99b-18cb-40cc-bf80-ac8c633fa656",
+    "name": "Bodyweight, full body",
+    "programDayIndex": 0,
+    "programId": "c7dc5902-4384-4cf5-b322-e8e9163461f5",
+    "startTime": 1475978712647
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "5",
+        "name": "Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475827355780,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475827836624,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828228391,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 8
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 12,
+              "minReps": 10
+            },
+            {
+              "allOut": true,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 90000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "238",
+        "name": "Eccentric Pullup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475827479833,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475827948943,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "237",
+        "name": "Eccentric Chinup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475827595020,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828073799,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828236721,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 8,
+              "minReps": 8
+            },
+            {
+              "allOut": true,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 45000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "217",
+        "name": "Close-Grip Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475827675348,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828221480,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 90000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 8,
+        "secondaryTargetMuscles": [
+          7
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "202",
+        "name": "Plank",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475828302493,
+              "duration": 20000,
+              "mark": 0,
+              "reps": 0,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828699218,
+              "duration": 20000,
+              "mark": 0,
+              "reps": 0,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828702127,
+              "duration": 20000,
+              "mark": 0,
+              "reps": 0,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 0,
+              "minReps": 0
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 1,
+        "type": 1
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "284",
+        "name": "Bodyweight Lunge",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475828404321,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828700677,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 15,
+              "minReps": 15
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "162",
+        "name": "Bodyweight Squat",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475828505087,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475828701521,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": true,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "secondaryTargetMuscles": [
+          4,
+          1
+        ],
+        "type": 0
+      }
+    ],
+    "comment": "Skipped legs, need to do again",
+    "endTime": 1475830338247,
+    "id": "be9dc4b1-29ba-493b-a49c-797fc0709241",
+    "name": "Bodyweight, full body",
+    "programDayIndex": 0,
+    "programId": "c7dc5902-4384-4cf5-b322-e8e9163461f5",
+    "startTime": 1475827227341
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "237",
+        "name": "Eccentric Chinup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475653352960,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475653546285,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475654001094,
+              "duration": 0,
+              "mark": 0,
+              "reps": 8,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 120000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "238",
+        "name": "Eccentric Pullup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475653481321,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475653847979,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 120000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "5",
+        "name": "Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475654273461,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475654420759,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475654531786,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "217",
+        "name": "Close-Grip Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475654323811,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475654509858,
+              "duration": 0,
+              "mark": 0,
+              "reps": 3,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 8,
+        "secondaryTargetMuscles": [
+          7
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "284",
+        "name": "Bodyweight Lunge",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475654719470,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475654723178,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "162",
+        "name": "Bodyweight Squat",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475654720489,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475654724037,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "secondaryTargetMuscles": [
+          4,
+          1
+        ],
+        "type": 0
+      }
+    ],
+    "endTime": 1475658386032,
+    "id": "e3f948b4-1eab-427d-869a-80646820b53d",
+    "name": "Bodyweight, full body",
+    "programDayIndex": 0,
+    "programId": "c7dc5902-4384-4cf5-b322-e8e9163461f5",
+    "startTime": 1475653307980
+  },
+  {
+    "activities": [
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "5",
+        "name": "Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475454195568,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475454494721,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 5,
+        "secondaryTargetMuscles": [
+          7,
+          8
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "217",
+        "name": "Close-Grip Pushup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475454312096,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475454622741,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 1,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 8,
+        "secondaryTargetMuscles": [
+          7
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "237",
+        "name": "Eccentric Chinup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475454954525,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475455491078,
+              "duration": 0,
+              "mark": 0,
+              "reps": 7,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475455815713,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 2,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 120000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "238",
+        "name": "Eccentric Pullup",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475455253044,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475455588978,
+              "duration": 0,
+              "mark": 0,
+              "reps": 5,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 0,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            }
+          ],
+          "restPerSet": 120000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 2,
+        "secondaryTargetMuscles": [
+          3
+        ],
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "284",
+        "name": "Bodyweight Lunge",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475456038646,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475456270226,
+              "duration": 0,
+              "mark": 0,
+              "reps": 9,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "type": 0
+      },
+      {
+        "@type": "MuscleActivity",
+        "custom": false,
+        "id": "162",
+        "name": "Bodyweight Squat",
+        "performance": {
+          "completedSets": [
+            {
+              "completedAt": 1475456157816,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            },
+            {
+              "completedAt": 1475456374321,
+              "duration": 0,
+              "mark": 0,
+              "reps": 10,
+              "weight": 0
+            }
+          ]
+        },
+        "performanceTarget": {
+          "groupIndex": 2,
+          "note": "",
+          "parameters": [
+            {
+              "allOut": false,
+              "index": 0,
+              "mark": 0,
+              "maxReps": 5,
+              "minReps": 5
+            },
+            {
+              "allOut": false,
+              "index": 1,
+              "mark": 0,
+              "maxReps": 10,
+              "minReps": 10
+            }
+          ],
+          "restPerSet": 60000
+        },
+        "equipment": 3,
+        "mainTargetMuscle": 6,
+        "secondaryTargetMuscles": [
+          4,
+          1
+        ],
+        "type": 0
+      }
+    ],
+    "endTime": 1475456508573,
+    "id": "a2bbe222-f4d1-4b1b-b786-f7b1f5b071f1",
+    "name": "Bodyweight, full body",
+    "programDayIndex": 0,
+    "programId": "c7dc5902-4384-4cf5-b322-e8e9163461f5",
+    "startTime": 1475453763907
+  }
+]

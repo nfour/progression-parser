@@ -14947,21 +14947,21 @@
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 15
+                "weight": 25
               },
               {
                 "completedAt": 1512290429880,
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 15
+                "weight": 25
               },
               {
                 "completedAt": 1512290460690,
                 "duration": 0,
                 "mark": 0,
                 "reps": 10,
-                "weight": 12
+                "weight": 24
               }
             ]
           },
@@ -17503,21 +17503,21 @@
                 "duration": 0,
                 "mark": 0,
                 "reps": 11,
-                "weight": 15
+                "weight": 25
               },
               {
                 "completedAt": 1511257621191,
                 "duration": 0,
                 "mark": 0,
                 "reps": 11,
-                "weight": 15
+                "weight": 25
               },
               {
                 "completedAt": 1511257772799,
                 "duration": 0,
                 "mark": 0,
                 "reps": 7,
-                "weight": 15
+                "weight": 25
               }
             ]
           },
@@ -19190,21 +19190,21 @@
                 "duration": 0,
                 "mark": 0,
                 "reps": 10,
-                "weight": 10
+                "weight": 20
               },
               {
                 "completedAt": 1510450150575,
                 "duration": 0,
                 "mark": 0,
                 "reps": 10,
-                "weight": 10
+                "weight": 20
               },
               {
                 "completedAt": 1510450276029,
                 "duration": 0,
                 "mark": 0,
                 "reps": 10,
-                "weight": 10
+                "weight": 20
               }
             ]
           },

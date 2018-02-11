@@ -6,10 +6,16 @@ export class ProgressionParser {
   workouts: IWorkout[];
   history: IWorkoutHistory[];
 
-  decode (encodedFile: string) {
-    const base: IProgressionsFile = JSON.parse(
-      Buffer.from(encodedFile, 'base64').toString('utf8'),
-    );
+  decode (inputFile: string) {
+    let base: IProgressionsFile;
+
+    if (inputFile[0] !== '{') {
+      // Is base64 encoded file
+
+      inputFile = Buffer.from(inputFile, 'base64').toString('utf8');
+    }
+
+    base = JSON.parse(inputFile);
 
     this.preferences = JSON.parse(base.preferences_);
     this.customActivities = JSON.parse(base['ua.json']);

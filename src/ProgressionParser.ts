@@ -19,10 +19,10 @@ export class ProgressionParser {
 
   encode (): string {
     const base: IProgressionsFile = {
-      'fws.json': JSON.stringify(this.history),
+      'preferences_': JSON.stringify(this.preferences),
       'ua.json': JSON.stringify(this.customActivities),
       'up.json': JSON.stringify(this.workouts),
-      'preferences_': JSON.stringify(this.preferences),
+      'fws.json': JSON.stringify(this.history),
     };
 
     return new Buffer(JSON.stringify(base)).toString('base64');

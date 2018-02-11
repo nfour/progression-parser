@@ -6,15 +6,17 @@ import { ProgressionParser } from '../src/ProgressionParser';
 
 const { argv: [, , input] } = process;
 
-const output = resolve('./out', basename(input));
+const output = resolve(__dirname, '../out', basename(input));
 
-const save = (fileName, obj) => {
-  writeFileSync(resolve(output, fileName), JSON.stringify(obj, null, 2));
+const save = (fileName, val) => {
+  if (typeof val !== 'string') { val = JSON.stringify(val, null, 2); }
+
+  writeFileSync(resolve(output, fileName), val);
 };
 
 try { mkdirpSync(output); } catch {}
 
-const file = readFileSync(resolve(__dirname, input), 'utf8');
+const file = readFileSync(resolve(__dirname, '..', input), 'utf8');
 
 const parser = new ProgressionParser();
 
@@ -25,4 +27,4 @@ save('customActivities.json', parser.customActivities);
 save('workouts.json', parser.workouts);
 save('history.json', parser.history);
 
-save(input, parser.encode());
+save(basename(input), parser.encode());

@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "parse": "ts-node parse.ts"
+    "parse": "ts-node scripts/parse.ts"
   },
   "devDependencies": {
     "@types/node": "^8.0.52",

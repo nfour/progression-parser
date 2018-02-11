@@ -1,3 +1,10 @@
+export interface IProgressionsFile {
+  'preferences_': string; // IPreferences
+  'up.json': string; // IWorkout[]
+  'ua.json': string; // ICustomActivity[]
+  'fws.json': string; // IWorkoutHistory[]
+}
+
 /** From .preferences_ */
 export interface IPreferences {
   auto_input: boolean;
@@ -13,7 +20,7 @@ export interface IPreferences {
 }
 
 /** From .[ua.json] */
-export interface ICustomExercisesEntry {
+export interface ICustomActivity {
   custom: true;
   id: string;
   instructions: string;

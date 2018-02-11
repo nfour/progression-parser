@@ -14871,28 +14871,28 @@
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 10
+                "weight": 20
               },
               {
                 "completedAt": 1512289243514,
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 12.5
+                "weight": 25
               },
               {
                 "completedAt": 1512289515656,
                 "duration": 0,
                 "mark": 0,
                 "reps": 10,
-                "weight": 12.5
+                "weight": 25
               },
               {
                 "completedAt": 1512289717978,
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 10
+                "weight": 20
               }
             ]
           },
@@ -17441,21 +17441,21 @@
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 10
+                "weight": 20
               },
               {
                 "completedAt": 1511257150848,
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 10
+                "weight": 20
               },
               {
                 "completedAt": 1511257277577,
                 "duration": 0,
                 "mark": 0,
                 "reps": 9,
-                "weight": 10
+                "weight": 20
               }
             ]
           },
@@ -19128,21 +19128,21 @@
                 "duration": 0,
                 "mark": 0,
                 "reps": 12,
-                "weight": 10
+                "weight": 20
               },
               {
                 "completedAt": 1510450080873,
                 "duration": 0,
                 "mark": 0,
                 "reps": 10,
-                "weight": 10
+                "weight": 20
               },
               {
                 "completedAt": 1510450083836,
                 "duration": 0,
                 "mark": 0,
                 "reps": 10,
-                "weight": 10
+                "weight": 20
               }
             ]
           },

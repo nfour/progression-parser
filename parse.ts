@@ -10,9 +10,6 @@ const saveTo = (fileName, obj) => {
   writeFileSync(resolve(output, fileName), JSON.stringify(obj, null, 2))
 }
 
-interface IBaseFile { preferences_: string }
-interface IProgressionFile { [k: string]: any }
-
 const parseProgressionFile = (blob: string) => {
   const base: IBaseFile = JSON.parse(
     Buffer.from(blob, 'base64').toString('utf8')
@@ -22,7 +19,7 @@ const parseProgressionFile = (blob: string) => {
 
   saveTo('preferences.json', preferences)
 
-  const ua = JSON.parse(base['ua.json'])
+  const ua = JSON.parse(base['ua.json']);
 
   saveTo('ua.json', ua)
 
@@ -35,8 +32,6 @@ const parseProgressionFile = (blob: string) => {
   saveTo('fws.json', fws)
 }
 
+try { mkdirpSync(output); } catch {}
 
-
-try { mkdirpSync(output) } catch {}
-
-parseProgressionFile(readFileSync(resolve(__dirname, input), 'utf8'))
+parseProgressionFile(readFileSync(resolve(__dirname, input), 'utf8'));

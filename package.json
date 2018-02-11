@@ -9,6 +9,8 @@
   "devDependencies": {
     "@types/node": "^8.0.52",
     "ts-node": "^3.3.0",
+    "tslint": "^5.9.1",
+    "tslint-config-temando": "^1.5.11",
     "typescript": "^2.6.1"
   },
   "dependencies": {

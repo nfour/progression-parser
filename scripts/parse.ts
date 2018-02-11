@@ -1,28 +1,35 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { mkdirpSync } from 'fs-extra';
-import { basename, resolve } from 'path';
+import { basename, extname, resolve } from 'path';
 
 import { ProgressionParser } from '../src/ProgressionParser';
 
-const { argv: [, , input] } = process;
+const getInputName = (inputName) => {
+  inputName = basename(inputName);
+  inputName = inputName.replace(extname(inputName), '');
+  inputName = inputName.replace(/\.parsed/, '');
 
-const inputFile = basename(input);
-
-const output = resolve(__dirname, '../out', inputFile);
+  return inputName;
+};
 
 const save = (fileName, val) => {
   if (typeof val !== 'string') { val = JSON.stringify(val, null, 2); }
 
-  writeFileSync(resolve(output, fileName), val);
+  writeFileSync(resolve(outputPath, fileName), val);
 };
 
-try { mkdirpSync(output); } catch {}
+const { argv: [, , inputFilePath] } = process;
 
-const file = readFileSync(resolve(__dirname, '..', input), 'utf8');
+const name = getInputName(inputFilePath);
+const outputPath = resolve(__dirname, '../out', name);
+
+try { mkdirpSync(outputPath); } catch { /* */ }
+
+const file = readFileSync(resolve(__dirname, '..', inputFilePath), 'utf8');
 
 const parser = new ProgressionParser();
 
 parser.decode(file);
 
-save(`${inputFile}.parsed.json`, parser);
-save(inputFile, parser.encode());
+save(`${name}.parsed.json`, parser);
+save(name, parser.encode());

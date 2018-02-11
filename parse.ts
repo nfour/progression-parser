@@ -1,10 +1,13 @@
-import { readFileSync, writeFileSync, mkdirSync } from "fs";
+import { mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { resolve, basename } from 'path';
+import { mkdirpSync } from 'fs-extra';
 
-const _dir = console.dir
-console.dir = (v, o = {}) => _dir(v, { depth: 10, colors: true, ...o })
+const { argv: [ , , input ] } = process
 
-const saveTo = (to, obj) => {
-  writeFileSync(`./out/${to}`, JSON.stringify(obj, null, 2))
+const output = resolve('./out', basename(input))
+
+const saveTo = (fileName, obj) => {
+  writeFileSync(resolve(output, fileName), JSON.stringify(obj, null, 2))
 }
 
 interface IBaseFile { preferences_: string }
@@ -32,8 +35,8 @@ const parseProgressionFile = (blob: string) => {
   saveTo('fws.json', fws)
 }
 
-try { mkdirSync('./out') } catch {}
 
-parseProgressionFile(readFileSync('./prog', 'utf8'))
 
-// console.dir(file)
+try { mkdirpSync(output) } catch {}
+
+parseProgressionFile(readFileSync(resolve(__dirname, input), 'utf8'))

@@ -6,7 +6,9 @@ import { ProgressionParser } from '../src/ProgressionParser';
 
 const { argv: [, , input] } = process;
 
-const output = resolve(__dirname, '../out', basename(input));
+const inputFile = basename(input);
+
+const output = resolve(__dirname, '../out', inputFile);
 
 const save = (fileName, val) => {
   if (typeof val !== 'string') { val = JSON.stringify(val, null, 2); }
@@ -22,9 +24,5 @@ const parser = new ProgressionParser();
 
 parser.decode(file);
 
-save('preferences.json', parser.preferences);
-save('customActivities.json', parser.customActivities);
-save('workouts.json', parser.workouts);
-save('history.json', parser.history);
-
-save(basename(input), parser.encode());
+save(`${inputFile}.parsed.json`, parser);
+save(inputFile, parser.encode());

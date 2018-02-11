@@ -28,4 +28,12 @@ export class ProgressionParser {
     return new Buffer(JSON.stringify(base)).toString('base64');
   }
 
+  toJSON () {
+    return {
+      preferences: this.preferences,
+      customActivities: this.customActivities,
+      workouts: this.workouts,
+      history: this.history,
+    };
+  }
 }

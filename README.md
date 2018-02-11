@@ -2,4 +2,10 @@
 
 A parser for [Progression Workout Tracker](https://play.google.com/store/apps/details?id=workout.progression.lite&hl=en) exported files.
 
+## Usage
 
+```
+yarn parse <filePath>
+```
+
+> Outputs to `out/<fileBaseName>`

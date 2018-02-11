@@ -12,6 +12,8 @@ yarn parse <filePath>
 
 ### Example
 
+To edit a file, follow this procedure:
+
 ```
 yarn parse in/2018-02-11
 
